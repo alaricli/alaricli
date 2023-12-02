@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hello, I'm Alaric
+
+Currently, I am:
+- Studying Business and Computer Science (BUCS) at UBC
+- Training for my first half-marathon
+- Working on recharged.icu
