@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, I'm Alaric
+### Hello, I'm Alaric Li
 
 Currently, I am:
-- Studying Business and Computer Science (BUCS) at UBC
-- Training for my first half-marathon
 - Working on professorsresearchtcg.com and recharged.icu
-- Looking for work as well
+- Training for my first marathon
+- Looking for full-time work
+
+Previously, I have:
+- Graduated from Business and Computer Science (BUCS) at UBC
+- Ran my first half-marathon (2:32)
+- Moved my small business online (scentsaver.co)
+- Completed a software development internship at SAP
