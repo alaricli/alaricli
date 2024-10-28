@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 Currently, I am:
 - Studying Business and Computer Science (BUCS) at UBC
 - Training for my first half-marathon
-- Working on scentsaver.co, professorsresearchtcg.com, and recharged.icu
+- Working on professorsresearchtcg.com and recharged.icu
 - Looking for work as well
