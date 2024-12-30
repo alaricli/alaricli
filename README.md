@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![alt text](https://s3.us-east-1.amazonaws.com/ptcgpocket.net-assets/business_card.png)
+
 
 ### Hello, I'm Alaric Li
 
