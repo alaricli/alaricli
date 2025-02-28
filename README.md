@@ -12,15 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://s3.us-east-1.amazonaws.com/ptcgpocket.net-assets/business_card.png)
 
 
 ### Hello, I'm Alaric Li
 
 Currently, I am:
 - Working on recharged.icu, a pre-owned electronics e-commerce platform
-- Training for my first marathon and trying to bench 225
-- Looking for full-time work in software development
+- Trying to bench 225
 
 Previously, I have:
 - Graduated from Business and Computer Science (BUCS) at UBC
