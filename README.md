@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### Hello, I'm Alaric Li
 
 Currently, I am:
-- Working on FC @electronicarts
-- Working on recharged.icu, a pre-owned electronics e-commerce platform
+- Working on servers for live services @electronicarts
+- Working on a fully custom e-commerce platform
 - Trying to bench 225
 
 Previously, I have:
