@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 Currently, I am:
 - Working on servers for live services @electronicarts
 - Working on a fully custom e-commerce platform
-- Trying to bench 225
+- Trying to make Regionals for the Pokemon TCG in 2026
 
 Previously, I have:
 - Graduated from Business and Computer Science (BUCS) at UBC
 - Ran my first half-marathon (2:32)
+- Hit 225 in bench
 - Launched my biggest project yet, https://ptcgpocket.net, a Pokemon TCG Pocket database
 - Completed a software development internship at SAP
