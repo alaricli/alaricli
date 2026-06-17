@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Currently, I am:
 - Working on servers for live services @electronicarts
-- Working on a fully custom e-commerce platform
+- Working on fully launching https://recharged-shop.com
 - Trying to win a Regionals event for the Pokémon TCG
 
 Previously, I have:
